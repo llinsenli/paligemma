@@ -106,7 +106,7 @@ A positional encoding strategy that rotates the query/key embeddings by a positi
 ### Installation
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/<your-username>/paligemma-from-scratch.git
+   git clone https://github.com/llinsenli/paligemma.git
    cd paligemma-from-scratch
    ```
 2. **Install required Python packages**:
