@@ -1,7 +1,6 @@
 # PaliGemma from Scratch in PyTorch
 
-**PaliGemma** is a vision-language model built entirely from scratch in PyTorch.  
-It follows a design inspired by PaLI and PaLI-3, integrating a Vision Transformer (SigLip) and a Language Model (Gemma) to provide powerful text and image understanding capabilities.  
+**PaliGemma** is a vision-language model. It follows a design inspired by PaLI and PaLI-3, integrating a Vision Transformer (SigLip) and a Language Model (Gemma) to provide powerful text and image understanding capabilities.  
 
 This repository showcases an end-to-end implementation of **PaliGemma** with detailed modules for:
 - Vision transformer encoder (SigLip)
